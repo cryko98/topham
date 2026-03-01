@@ -19,8 +19,8 @@ import {
   Plane
 } from 'lucide-react';
 
-const CA = "xxxxxxxxxxxxxxxxxxxxxxxx";
-const LOGO_URL = "https://lcaryepoaiuzuppladzq.supabase.co/storage/v1/object/public/ccc/photo_2026-03-01_20-12-54.jpg";
+const CA = "A2Y2BgaFZwYQEFHqV3f88wjLBysjcQ2sdeSwQkp4pump";
+const LOGO_URL = "https://lcaryepoaiuzuppladzq.supabase.co/storage/v1/object/public/ccc/topham%20(3).png";
 
 // Custom X (Twitter) icon for 2026
 const XIcon = () => (
@@ -52,7 +52,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <img src={LOGO_URL} alt="Logo" className="w-10 h-10 rounded-full border border-war-olive shadow-[0_0_10px_rgba(61,68,48,0.5)]" referrerPolicy="no-referrer" />
-            <span className="stencil text-xl tracking-wider text-war-sand hidden sm:block">HAMSTER AIR FORCE</span>
+            <span className="stencil text-xl tracking-wider text-war-sand hidden sm:block">HAMSTER FORCE</span>
           </div>
 
           <div className="flex-1 max-w-md mx-4 hidden md:block">
@@ -67,7 +67,7 @@ export default function App() {
 
           <div className="flex items-center gap-4">
             <div className="flex items-center gap-3">
-              <a href="https://t.me/hamsterairforce" target="_blank" rel="noopener noreferrer" className="p-2 bg-war-olive/20 rounded-sm hover:bg-war-olive/40 text-war-sand transition-all">
+              <a href="https://t.me/hamsterforceonsol" target="_blank" rel="noopener noreferrer" className="p-2 bg-war-olive/20 rounded-sm hover:bg-war-olive/40 text-war-sand transition-all">
                 <Send size={18} />
               </a>
               <a href="https://x.com" target="_blank" rel="noopener noreferrer" className="p-2 bg-war-olive/20 rounded-sm hover:bg-war-olive/40 text-war-sand transition-all">
@@ -123,14 +123,14 @@ export default function App() {
               className="relative z-10"
             >
               <div className="inline-flex items-center gap-2 px-3 py-1 bg-war-red/20 border border-war-red/40 text-war-red text-[10px] font-bold tracking-widest uppercase mb-6">
-                <Radio size={12} className="animate-pulse" /> Live Transmission: Operation $TOPHAM
+                <Radio size={12} className="animate-pulse" /> Live Transmission: Operation $hammy
               </div>
               <h1 className="stencil text-6xl md:text-8xl text-war-sand leading-none mb-6">
                 HAMSTER <br />
-                <span className="text-white">AIR FORCE</span>
+                <span className="text-white">FORCE</span>
               </h1>
               <p className="text-lg text-gray-400 max-w-lg mb-8 font-medium">
-                The elite $TOPHAM squadron has been deployed to the Solana frontlines. 
+                The elite $hammy squadron has been deployed to the Solana frontlines. 
                 No seed, no surrender. Just pure aerial dominance.
               </p>
               <div className="flex flex-wrap gap-4">
@@ -187,7 +187,7 @@ export default function App() {
                   "In the scorched skies of World War III, where drones outnumber birds and the horizon is a permanent shade of tactical grey, one legend emerged from the sawdust. Sgt. Nibbles wasn't just a hamster; he was the finest ace the 101st Rodent Wing had ever seen."
                 </p>
                 <p className="text-gray-400 leading-relaxed">
-                  Strap in for the story of the Hamster Air Force. While the giants fought over borders, Sgt. Nibbles fought for the only thing that mattered: the $TOPHAM supply lines. Flying a modified F-35 'Sunflower-Seed' Edition, he dominated the dogfights of 2026. Now, he's transitioned his tactical genius to the Solana blockchain. $TOPHAM isn't just a coin; it's a veteran-led assault on the status quo.
+                  Strap in for the story of the Hamster Force. While the giants fought over borders, Sgt. Nibbles fought for the only thing that mattered: the $hammy supply lines. Flying a modified F-35 'Sunflower-Seed' Edition, he dominated the dogfights of 2026. Now, he's transitioned his tactical genius to the Solana blockchain. $hammy isn't just a coin; it's a veteran-led assault on the status quo.
                 </p>
                 <div className="mt-8 flex items-center gap-4 border-t border-war-olive/20 pt-6">
                   <div className="w-12 h-12 rounded-full bg-war-olive/30 flex items-center justify-center text-war-sand">
@@ -272,19 +272,19 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-4 flex flex-col md:flex-row justify-between items-center gap-8">
           <div className="flex items-center gap-3">
             <img src={LOGO_URL} alt="Logo" className="w-8 h-8 rounded-full grayscale" referrerPolicy="no-referrer" />
-            <span className="stencil text-lg text-war-olive">HAMSTER AIR FORCE</span>
+            <span className="stencil text-lg text-war-olive">HAMSTER FORCE</span>
           </div>
           
           <div className="text-center md:text-left">
-            <p className="text-[10px] text-war-olive uppercase tracking-[0.2em] mb-2">© 2026 Operation $TOPHAM. All rights reserved.</p>
+            <p className="text-[10px] text-war-olive uppercase tracking-[0.2em] mb-2">© 2026 Operation $hammy. All rights reserved.</p>
             <p className="text-[10px] text-gray-600 max-w-xs">
-              $TOPHAM is a memecoin with no intrinsic value. Invest at your own risk. 
-              The Hamster Air Force assumes no responsibility for lost seeds.
+              $hammy is a memecoin with no intrinsic value. Invest at your own risk. 
+              The Hamster Force assumes no responsibility for lost seeds.
             </p>
           </div>
 
           <div className="flex gap-4">
-            <a href="https://t.me/hamsterairforce" target="_blank" rel="noopener noreferrer" className="text-war-olive hover:text-war-sand transition-colors"><Send size={20} /></a>
+            <a href="https://t.me/hamsterforceonsol" target="_blank" rel="noopener noreferrer" className="text-war-olive hover:text-war-sand transition-colors"><Send size={20} /></a>
             <a href="https://x.com" target="_blank" rel="noopener noreferrer" className="text-war-olive hover:text-war-sand transition-colors"><XIcon /></a>
           </div>
         </div>
