@@ -70,7 +70,7 @@ export default function App() {
               <a href="https://t.me/hamsterairforce" target="_blank" rel="noopener noreferrer" className="p-2 bg-war-olive/20 rounded-sm hover:bg-war-olive/40 text-war-sand transition-all">
                 <Send size={18} />
               </a>
-              <a href="https://x.com/hamsterairforce" target="_blank" rel="noopener noreferrer" className="p-2 bg-war-olive/20 rounded-sm hover:bg-war-olive/40 text-war-sand transition-all">
+              <a href="https://x.com" target="_blank" rel="noopener noreferrer" className="p-2 bg-war-olive/20 rounded-sm hover:bg-war-olive/40 text-war-sand transition-all">
                 <XIcon />
               </a>
             </div>
@@ -284,8 +284,8 @@ export default function App() {
           </div>
 
           <div className="flex gap-4">
-            <a href="#" className="text-war-olive hover:text-war-sand transition-colors"><Send size={20} /></a>
-            <a href="#" className="text-war-olive hover:text-war-sand transition-colors"><XIcon /></a>
+            <a href="https://t.me/hamsterairforce" target="_blank" rel="noopener noreferrer" className="text-war-olive hover:text-war-sand transition-colors"><Send size={20} /></a>
+            <a href="https://x.com" target="_blank" rel="noopener noreferrer" className="text-war-olive hover:text-war-sand transition-colors"><XIcon /></a>
           </div>
         </div>
       </footer>
