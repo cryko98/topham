@@ -236,7 +236,7 @@ export default function App() {
             <h2 className="stencil text-4xl text-war-sand mb-16 text-center">FLIGHT PLAN</h2>
             <div className="space-y-12">
               {[
-                { phase: "PHASE 1: TAKEOFF", tasks: ["Launch on Solana", "Community Recruitment", "Social Media Blitz"] },
+                { phase: "PHASE 1: TAKEOFF", tasks: ["Launch on pump.fun", "Community Recruitment", "Social Media Blitz"] },
                 { phase: "PHASE 2: DOGFIGHT", tasks: ["DEX Listings", "Strategic Partnerships", "Influencer Air Support"] },
                 { phase: "PHASE 3: AIR SUPERIORITY", tasks: ["CEX Deployment", "Global Marketing Campaign", "Hamster Air Force DAO"] }
               ].map((step, i) => (
